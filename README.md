@@ -12,7 +12,7 @@
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/TechyShreyansh"><img alt="Website" src="https://img.shields.io/badge/Tech Shreyansh�"></a>
  
-[![Tech Shreyansh�](https://img.shields.io/github.com/TechyShreyansh/STRING-SESSION?style=social)](https://github.com/TechyShreyansh/STRING-SESSION/stargazers)
+[![Tech Shreyansh](https://img.shields.io/github.com/TechyShreyansh/STRING-SESSION?style=social)](https://github.com/TechyShreyansh/STRING-SESSION/stargazers)
   [![Forks](https://img.shields.io/github/forks/TechyShreyansh/STRING-SESSION?style=social)](https://github.com/TechyShreyansh/STRING-SESSION/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
